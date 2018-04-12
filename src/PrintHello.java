@@ -5,5 +5,7 @@ public class PrintHello {
 		System.out.println("Hello");
 		
 		System.out.println("branch test");
+		
+		System.out.println("start!");
 	}
 }
